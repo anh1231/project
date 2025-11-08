@@ -26,7 +26,7 @@ The current approach is taken by splitting the section into two groups, system a
 ---
 
 ### **4. What other techniques would you be interested in using in your project?**
-Mixture of Experts (MoE), Finetuning vs Distilling a model, Retrieval Augmented Generation (RAG), Inference Time Scaling techniques, these are all techniques that I would like to reasearch more about to see if it is possible to implement within quarter 2.
+Mixture of Experts (MoE), Finetuning vs Distilling a model, Retrieval Augmented Generation (RAG), Inference Time Scaling techniques, these are all techniques that I would like to research more about to see if it is possible to implement within quarter 2.
 ---
 
 *Created for DSC 180A - Methodology Assignment 4 (Fall 2025).*
